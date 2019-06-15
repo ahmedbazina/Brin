@@ -1,5 +1,5 @@
 # Description
-This was my second web apps assignment i had within the first year of studying computer science at Cardiff University.
+This was my very first web apps assignment i had within the first year of studying computer science at Cardiff University.
 
 # Instructions
 ## Web Page
