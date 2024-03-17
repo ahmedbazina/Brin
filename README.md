@@ -26,3 +26,28 @@ If the website is about a particular person, then it should contain separate pag
 - [x] Assign a custom domain to the repo
 - [x] Test the site
 - [x] Enforce HTTPS
+
+
+
+# Sergey Brin 
+
+Welcome to the Sergey Brin Website project! This small website is built using HTML and CSS and provides information about Sergey Brin, co-founder of Google.
+
+## Description
+
+This website offers a brief overview of Sergey Brin's background, achievements, and contributions to the tech industry. It includes sections such as biography, career highlights, and personal interests.
+
+## Features
+
+- **Biography:** Learn about Sergey Brin's early life, education, and career journey.
+- **Career Highlights:** Explore Sergey Brin's notable achievements and contributions to Google and the tech industry.
+- **Personal Interests:** Discover Sergey Brin's hobbies, interests, and philanthropic activities.
+- **Simple Design:** The website features a clean and minimalist design, focusing on presenting information in a clear and concise manner.
+
+## Live Demo
+
+Check out the live demo of the Sergey Brin Website: [Sergey Brin Website](https://brin.ahmedbazina.com/)
+
+## Screenshots
+
+![Screenshot](https://github.com/ahmedbazina/Portfolio/raw/main/assets/projects/project-1.png)
